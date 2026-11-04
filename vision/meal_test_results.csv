@@ -1,0 +1,9 @@
+﻿image,actual_category,predicted_category,confidence_percent,top_two_margin_percent,correct
+nasilemak.jpeg,nasi_lemak,nasi_lemak,100.0,100.0,YES
+nasilemak2.jpeg,nasi_lemak,nasi_lemak,100.0,100.0,YES
+satay.webp,satay,satay,100.0,100.0,YES
+satay2.jpeg,satay,satay,100.0,100.0,YES
+apple.jpeg,unknown,hamburger,67.28,51.05,NOT SUPPORTED
+Hainanese Chicken Rice Bowl.jpeg,unknown,kaya_toast,54.44,29.65,NOT SUPPORTED
+meat.jpeg,unknown,hamburger,82.85,67.96,NOT SUPPORTED
+meat2.jpeg,unknown,laksa,99.64,99.43,NOT SUPPORTED

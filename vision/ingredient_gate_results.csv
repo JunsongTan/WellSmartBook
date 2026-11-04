@@ -1,0 +1,9 @@
+﻿actual_group,filename,meal_prediction,meal_confidence_percent,ingredient_detection_count,top_ingredient_detections
+nasi_lemak,nasilemak.jpeg,nasi_lemak,100.0,3,"mushroom (43.5%), mushroom (40.8%), oyster (29.5%)"
+nasi_lemak,nasilemak2.jpeg,nasi_lemak,100.0,3,"oyster (56.4%), crab (49.3%), crab (40.1%)"
+satay,satay.webp,satay,100.0,2,"crab (57.4%), crab (29.7%)"
+satay,satay2.jpeg,satay,100.0,1,crab (85.6%)
+unknown,apple.jpeg,hamburger,67.28,1,apple (95.1%)
+unknown,Hainanese Chicken Rice Bowl.jpeg,kaya_toast,54.44,1,chicken (46.6%)
+unknown,meat.jpeg,hamburger,82.85,4,"crab (70.3%), beef (48.0%), beef (36.9%), beef (31.0%)"
+unknown,meat2.jpeg,laksa,99.64,0,none
